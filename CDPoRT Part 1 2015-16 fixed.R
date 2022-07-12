@@ -12,7 +12,7 @@ library(matrixStats)
 library(survey)
 library(base)
 
-CCHS201516 <- read.csv(("~/Undergrad/Honours/cchs-82M0013-E-2015-2016-Annual-component_F1.csv"))
+CCHS201516 <- read.csv(("C:/Users/tselo/Desktop/HFASt Lab/CDPoRT Coding/CDPoRT Part 1/CCHS201516.csv"))
 #View(CCHS201516)
 
 # Creating smaller data frame for CCHS data, contains only variables used in Part 1
